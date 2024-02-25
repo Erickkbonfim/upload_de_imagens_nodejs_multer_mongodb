@@ -1,0 +1,8 @@
+Como o projeto em questão é uma plataforma de adoção de pets, ela precisa de uma pasta (folder) de usuarios e uma de pets, dentro do helper foi criado uma função que identifica a URL base do post no qual o arquivo foi enviado e indica a pasta que precisa colocar o arquivo, se o intuito for replicar exatamente oque foi feito no helper devera  seguir a seguinte estrutura de pastas:
+
+PUBLIC
+    > IMAGES
+          > PETS
+          > USERS
+
+
